@@ -1,29 +1,46 @@
-// List 4 data types in a multiline comment
+/*
+List 4 data types in a multiline comment
 
-// Typeof
+    String
+    Number
+    Boolean
+    Object
 
-// Let vs Const vs Var
+Typeof
 
-// Reassignment (no let)
+Tells you what the varible is.
+let x = 10; typeOf(x); --> number
 
-// Essential Operations
+Let vs Const vs Var
 
-// Additional operations
+    Var is global
+    let is local
+    Const is unchanging
 
-// User Input
+Reassignment (no let)
 
-// Concatenation v. templates
 
-// String Methods (uppercase, lowercase, includes)
 
-// Math methods
+Essential Operations
 
-// Comparison operators - true or false?
+Additional operations
 
-// Conditional statements;
+User Input
 
-// Functions
+Concatenation v. templates
 
-// Returns half the number if it can be halved; otherwise returns false
+String Methods (uppercase, lowercase, includes)
 
-// Functions can also be written as arrows. Body of function doesn't change, just the signature.
+Math methods
+
+Comparison operators - true or false?
+
+Conditional statements;
+
+Functions
+
+Returns half the number if it can be halved; otherwise returns false
+
+Functions can also be written as arrows. Body of function doesn't change, just the signature.
+
+*/
